@@ -8,3 +8,20 @@ the prime crime locations, shooting areas with the incidents counts, statistics 
 ### Visualization performed to analyse the data is represented on a poster. We have utilised python to perform analyses and Tableau to generate graphs 
 
 ![bca](https://user-images.githubusercontent.com/25044358/38277637-29741aa6-3767-11e8-98e2-7393aa2c668c.jpeg)
+
+Technolgies 
+
+Application/Data
+PG Admin SQL
+Jupyter Notebooks/Pandas
+Excel
+
+Utilites
+Github
+Tableau
+
+Busniess tools
+Slack
+
+Visulization
+VSCode
